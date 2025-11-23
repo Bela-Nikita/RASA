@@ -1,10 +1,4 @@
 # main.py
-import os
-# Set the variable directly for the current Python process
-os.environ["GEMINI_API_KEY"] = "AIzaSyA1dE7DutQBloWPIXQIfOf_DZdUl8quZCc"
-os.environ["GOOGLE_CSE_ID"]="7163124fefef84217"
-os.environ["GOOGLE_API_KEY"]="AIzaSyBORF6ypS4_uw_7582Mm-sb5rQHbLxYIVE"
-
 import logging
 from typing import TypedDict, Annotated, List, Literal
 from operator import add 
