@@ -1,6 +1,6 @@
 # RASA: Research and Study Agent (RASA)
 
-## Category 1: The Pitch (Problem, Solution, Value)
+
 
 ### Project Overview
 RASA is a sophisticated **Multi-Agent System** built on LangGraph and the Gemini API to solve the problem of **knowledge fragmentation** in academic research and study.
@@ -14,8 +14,6 @@ RASA provides a unified workspace with two specialized agents:
 2.  **Study Agent:** Automatically retrieves and **summarizes** the user's LTM before answering a question, ensuring personalized tutoring based on their specific, saved notes. This two-way LTM integration is the core innovation.
 
 ---
-
-## Category 2: The Implementation (Features & Architecture)
 
 ### Architecture Diagram
 The system uses a Hierarchical, Orchestrator-Specialist model.
